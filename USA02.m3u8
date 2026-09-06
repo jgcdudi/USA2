@@ -7,60 +7,36 @@ https://livevideo.tegnadigital.com/kusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WCBI (Columbus MI) (720p)
-https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u8?checkedby:iptvcat.com
+https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u8?checkedby:iptvcat.
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WCOT 13 (Tallahassee FL) (720p)
-https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOX LIVE NOW
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8?checkedby:iptvcat.co
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",WDEF-TV News Chattanooga TN (720p)
-https://townnews.g-mana.live/media/a54a6409-5e91-46f0-9fee-06904c1fd094/main.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WEDQ-DT4
-https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WFLD-DT1 (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WFXT-DT2 (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WGGS-DT1 (720p)
-https://cdn-unified-hls.streamspot.com/ingest1/c7956aac88/playlist.m3u8?origin=1&checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WGTV-DT3
-https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WHBQ-DT1 (1080p)
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOX 13 MEMPHIS
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WHPS Detroit
-https://f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WJBK-DT1
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOX 2 DETROIT
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",WMGT-TV News (Macon GA) (720p)
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",NBC 41 MACON GA
 https://townnews.g-mana.live/media/e6909128-cd42-4690-8340-4b8a49455666/main.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",WXXV-TV News (Biloxi MS) (720p)
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",WXXV NEWS BILOXI MS
 https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 9 Charlotte NC (WSOC) (720p)
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 9 CHARLOTTE NC 
 https://aegis-cloudfront-1.tubi.video/d864a20b-85bb-41bc-8fbe-6c9d8a88a32d/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BeIN SPORTS XTRA (720p)
-https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BeIN Sports XTRA (1080p)
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS 9 Oklahoma City OK (KWTV-DT1) (720p) [Not 24/7]
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS 9 OKLAHOMA CITY OK 
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb6744b0425.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Euronews English (720p)
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",EURONEWS ENGLISH
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOX 23 CAPE GIRARDEAU MO
 https://live.field59.com/kbsi/kbsi1/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",KDFW-DT1 (1080p)
